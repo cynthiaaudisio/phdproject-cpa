@@ -1,3 +1,4 @@
 Working in this repository, some ground rules
 
-helpful to save scripts of on-going analyses. 
+helpful to save scripts of on-going analyses on R or directly on bash terminal
+
