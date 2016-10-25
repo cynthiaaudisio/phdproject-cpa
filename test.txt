@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hola
 
 qué talco
 
 esto lo voy a commit y despues ver que hace checkout head 
+=======
+hola
+>>>>>>> parent of ab34d25... ambos
