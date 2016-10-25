@@ -1,3 +1,4 @@
 *.dat
-!b.dat #excluir este archivo= no ignorar este
+!b.dat 
+
 results/
