@@ -1,3 +1,5 @@
 hola
 
 qué talco
+
+esto lo voy a commit y despues ver que hace checkout head 
